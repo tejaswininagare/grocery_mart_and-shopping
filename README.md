@@ -27,3 +27,28 @@ PS D:\20240331\grocery_mart>
 
 
 git checkout is used to check in into new branch
+Git Commands:
+
+
+clone repo: 
+git clone <project_url> —>it will clone the project to your local machine 
+
+Check working branch:
+ git branch —-> it will give you in which branch you are now
+
+Create Branch:
+ git branch <branchName>
+
+Switch to branch:
+ git checkout <branchName>
+
+Add modified file to commit: 
+git  add .
+git  add fileName
+git  add *
+
+Check status of your branch:
+git  status 
+
+Commit changes:
+git  commit -m “your comment message”
