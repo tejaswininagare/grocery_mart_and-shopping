@@ -23,3 +23,7 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 PS D:\20240331\grocery_mart>
+
+
+
+git checkout is used to check in into new branch
